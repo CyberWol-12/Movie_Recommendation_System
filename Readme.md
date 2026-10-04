@@ -100,6 +100,10 @@ Movies below this threshold were filtered before calculating weighted ratings.
 
 #  Weighted Rating
 
+![Weighted Rating](Weighted_Rating.png)
+
+similarity-analysis
+
 A weighted rating approach was used to balance:
 
 - Movie rating

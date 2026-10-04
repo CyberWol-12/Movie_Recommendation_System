@@ -281,7 +281,8 @@ The recommendation system generates a ranked list of movies similar to the selec
 
 ### Recommendation Output
 
-![Movie Recommendation Output](images/recommendation-output.png)
+![Movie Recommendation Output](recommendation-output.png)
+
 
 ---
 
